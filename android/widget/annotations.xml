@@ -1,0 +1,9 @@
+<root>
+  <item name='android.widget.Editor mSuggestionRangeSpan'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+  <item
+      name='android.widget.TextView void setCompoundDrawables(android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable) 0'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
